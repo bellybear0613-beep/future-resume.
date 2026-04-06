@@ -62,10 +62,6 @@ Future Resume
 - GitHub: https://github.com/your-github
 - Portfolio: https://your-portfolio.com
 
-
----
-
-## 📌 References (추천인)
-- ○○○ 교수님  
-  - 본 수업 담당 교수  
+ 📌 References (추천인)
+- 박규동 교수님  
   - "본 수업의 수강생은 추천할 수 있는 인재로 성장할 잠재력을 갖추고 있습니다."
